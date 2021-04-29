@@ -1,0 +1,41 @@
+body {
+  color: snow;
+  background: url("https://wallpapertag.com/wallpaper/middle/b/a/e/837575-nice-black-background-2560x1600-for-phone.jpg");
+}
+.black {
+  text-align: center;
+  color: #4c5955;
+}
+img {
+  border-color: orange;
+  border-style: ridge;
+  border-width: 6px;
+  width: 250px;
+  height: 200px;
+}
+.main {
+  padding-left: 400px;
+  display: flex;
+  justify-content: flex-start;
+}
+.mysongs {
+  padding-right: 200px;
+}
+.music {
+  padding-left: 600px;
+}
+input {
+  background-color: orange;
+}
+button {
+  color: red;
+  background-color: black;
+}
+
+hr {
+  padding: 2px;
+  background-color: white;
+}
+p {
+  text-align: center;
+}
