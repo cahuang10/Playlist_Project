@@ -85,6 +85,7 @@ $(".bt1").click(function() {
 $(".bt2").click(function() {
   userInput = $(".info2").val();
   myList.push(userInput);
+   $("input").css("background","red");
   $("input").val("");
   $(".music").fadeOut();
   $("#part3").fadeIn();
